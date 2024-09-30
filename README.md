@@ -1,7 +1,7 @@
 **Technical Interview Task: Full-Stack Development with Laravel, MySQL, and Angular**
 
 **Overview:**  
-The goal of this technical exercise is to assess your ability to develop a simple API using Laravel, implement JWT-based authentication, and expose endpoints for customers and products. You will also build a simple Angular app to interact with the API.
+The goal of this technical exercise is to assess your ability to develop a simple API using Laravel, implement JWT-based authentication, and expose endpoints for customers and products. You will also build a simple Angular app to interact with the API - _No need for fancy CSS or CSS at all but feel free to use a styling library or framework of your choice_
 
 ### **Backend: Laravel API Development**
 
